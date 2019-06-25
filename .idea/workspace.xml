@@ -2,28 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d71048ac-10fd-4bd6-b66e-174bba858b81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/mxy/eurekafeignclient/eurekafeignclient/HiHystrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/src/main/java/com/mxy/eurekamonitorclient/EurekaMonitorClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-monitor-client/src/test/java/com/mxy/eurekamonitorclient/EurekaMonitorClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/mxy/configclient/ConfigClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/test/java/com/mxy/configclient/ConfigClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/mxy/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/shared/config-client-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/com/mxy/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/EurekaZuulClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFallbackProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/test/java/com/mxy/eurekazuulclient/EurekaZuulClientApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/mxy/eurekafeignclient/eurekafeignclient/EurekaClientFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/mxy/eurekafeignclient/eurekafeignclient/EurekaClientFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/mxy/eurekafeignclient/eurekafeignclient/EurekaFeignClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/mxy/eurekafeignclient/eurekafeignclient/EurekaFeignClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/EurekaRibbonClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/EurekaRibbonClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/Service/RibbonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/Service/RibbonService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,6 +47,9 @@
     <ignored path="$PROJECT_DIR$/eureka-ribbon-client/target/" />
     <ignored path="$PROJECT_DIR$/eureka-feign-client/target/" />
     <ignored path="$PROJECT_DIR$/eureka-monitor-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-zuul-client/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +78,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/mxy/configserver/ConfigServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/eureka-feign-client/pom.xml">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/config-client-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="48">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -92,8 +117,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -135,6 +160,15 @@
         <option value="$PROJECT_DIR$/eureka-feign-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-monitor-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/EurekaZuulClientApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/ZuulFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFilter.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/mxy/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/shared/config-client-dev.yml" />
       </list>
     </option>
   </component>
@@ -153,27 +187,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-ribbon-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-ribbon-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1180" />
+    <option name="width" value="1173" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,8 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,17 +212,14 @@
             <path>
               <item name="mxy" type="b2602c69:ProjectViewProjectNode" />
               <item name="mxy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,10 +263,24 @@
     </option>
     <option name="contentProportion" value="0.18777056" />
   </component>
-  <component name="RunManager" selected="Spring Boot.monitor">
+  <component name="RunManager" selected="Spring Boot.zuul">
     <configuration name="eureka-server-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar" />
       <method v="2" />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.configclient.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-client" />
@@ -284,6 +313,13 @@
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.eurekaserver.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaZuulClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-zuul-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.eurekazuulclient.EurekaZuulClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -351,6 +387,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-zuul-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.eurekazuulclient.EurekaZuulClientApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=service-zuul" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JAR Application.eureka-server-0.0.1-SNAPSHOT.jar" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
@@ -362,9 +407,13 @@
       <item itemvalue="Spring Boot.ribbon" />
       <item itemvalue="Spring Boot.feign" />
       <item itemvalue="Spring Boot.monitor" />
+      <item itemvalue="Spring Boot.zuul" />
       <item itemvalue="Spring Boot.EurekaRibbonClientApplication" />
       <item itemvalue="Spring Boot.EurekaFeignClientApplication" />
       <item itemvalue="Spring Boot.EurekaMonitorClientApplication" />
+      <item itemvalue="Spring Boot.EurekaZuulClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -395,7 +444,8 @@
       <workItem from="1560823680017" duration="8225000" />
       <workItem from="1560844603595" duration="764000" />
       <workItem from="1560908944639" duration="4643000" />
-      <workItem from="1561357619046" duration="8336000" />
+      <workItem from="1561357619046" duration="8551000" />
+      <workItem from="1561425275726" duration="7512000" />
     </task>
     <task id="LOCAL-00001" summary="spring cloud init">
       <created>1560760998299</created>
@@ -418,16 +468,23 @@
       <option name="project" value="LOCAL" />
       <updated>1560844775374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add hystrix">
+      <created>1561368565653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561368565653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65263000" />
+    <option name="totallyTimeSpent" value="72990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="1173" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.14498934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989518" visible="true" weight="0.24707997" />
       <window_info id="Structure" order="1" sideWeight="0.5010482" side_tool="true" weight="0.19083156" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,14 +506,14 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32932165" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32932165" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.31561822" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32858709" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.26725084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.43771628" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.43755615" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.32979664" />
@@ -506,7 +563,8 @@
     <MESSAGE value="spring cloud init" />
     <MESSAGE value="add 1" />
     <MESSAGE value="add 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2" />
+    <MESSAGE value="add hystrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hystrix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/bootstrap.yml" />
@@ -637,13 +695,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/Service/HystrixCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/mxy/eurekaribbonclient/eurekaribbonclient/Service/HystrixCommand.java" />
     <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -711,34 +763,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="24">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="936">
+          <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-monitor-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
+        <state relative-caret-position="24">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-feign-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/ZuulFallbackProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="144">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/EurekaZuulClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/mxy/eurekazuulclient/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/mxy/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/config-client-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
